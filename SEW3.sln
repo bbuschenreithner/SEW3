@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEW3_3_Nullable_datatypes",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEW3_3_Call_value_reference", "SEW3_3_Call_value_reference\SEW3_3_Call_value_reference.csproj", "{5A11BAC6-9956-4120-AA96-DB6904CFE1CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEW3_04_Namespaces", "SEW3_04_Namespaces\SEW3_04_Namespaces.csproj", "{03B89653-1BCE-47F7-B325-D638EB5EA3E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEW3_04_Namespaces", "SEW3_04_Namespaces\SEW3_04_Namespaces.csproj", "{03B89653-1BCE-47F7-B325-D638EB5EA3E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEW3_06_02_Events_BarDrinks", "SEW3_06_02_Events_BarDrinks\SEW3_06_02_Events_BarDrinks.csproj", "{98080143-BF16-49F4-B498-925B44A2B8CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{03B89653-1BCE-47F7-B325-D638EB5EA3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03B89653-1BCE-47F7-B325-D638EB5EA3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03B89653-1BCE-47F7-B325-D638EB5EA3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98080143-BF16-49F4-B498-925B44A2B8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98080143-BF16-49F4-B498-925B44A2B8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98080143-BF16-49F4-B498-925B44A2B8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98080143-BF16-49F4-B498-925B44A2B8CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
