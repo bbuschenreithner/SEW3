@@ -28,20 +28,6 @@ namespace SEW3_06_02_Events_BarDrinks
             }
         }
     }
-    public enum DrinkType
-    {
-        Alcoholic,
-        NonAlcoholic
-    }
-    internal class DrinkEventArgs : EventArgs
-    {
-        public DrinkEventArgs(DrinkType type)
-        {
-            this.Drink = type;
-        }
-
-        public DrinkType Drink { get; private set; }
-    }
     internal class Person
     {
         public string Name { get; set; }
